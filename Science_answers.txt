@@ -1,0 +1,5 @@
+1. C
+2. True
+3. 7
+4. True
+5. Nicotine

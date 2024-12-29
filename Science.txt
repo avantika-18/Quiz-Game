@@ -1,0 +1,30 @@
+Science
+QUESTION
+1. How many planets in the solar system?
+12 
+55
+8 
+END
+QUESTION
+2. Iron is attracted by magnets. 
+True
+False
+END
+QUESTION
+3. How many colours can be seen when white light is separated? 
+7
+12 
+25
+END
+QUESTION
+4. Gravity is stronger on the Earth than on the Moon. 
+True
+False 
+END
+QUESTION
+5. What is the addictive chemical in cigarettes known as?
+Heroin
+Nicotine
+Cocaine
+END
+

@@ -1,0 +1,30 @@
+QUESTION
+1. Solve for x where 2x+50=100
+25
+50
+75
+END
+QUESTION
+2. What is 9/10 of 2000?
+1700
+1800
+1900
+END
+QUESTION
+3. If a recipe requires 400g of potatoes for 4 people, how many kg would be required for 12 people?
+60
+1.2
+1.6
+END
+QUESTION
+4. What name is given to the following sequence? 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55
+Arithmetic
+Fibonacci
+Geometry
+END
+QUESTION
+5. What name is given to a triangle with 2 sides the exact same length?
+Isosceles
+Scalene
+Equilateral
+END
